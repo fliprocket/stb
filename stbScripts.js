@@ -64,8 +64,8 @@ function roll(){
     rand2 = Math.floor((Math.random() * 6) + 1);
     
     //img = document.getElementById("die1")
-    path='images/dice/'+rand+'.png';
-    path2='images/dice/'+rand2+'.png';
+    path='images/dice/'+rand+'.PNG';
+    path2='images/dice/'+rand2+'.PNG';
     document.images["die1"].src = path;
     document.images["die2"].src = path2;
     
