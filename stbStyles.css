@@ -1,0 +1,54 @@
+#wrapper {
+    width: 1200px;
+    margin-left:  auto;
+    margin-right: auto;
+    background-color: rgb(191, 38, 0);
+    padding: 20px;
+    height: 700px;
+}
+
+header {
+    width: 1100px;
+    box-shadow: 10px 10px 10px #7E6143;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(3, 18, 181,.9);
+    text-align: center;
+    color: #fcd31b;
+}
+
+#tiles {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1180px;
+    padding:10px;
+    text-align: center;
+}
+
+.numbers {
+    width: 110px;
+    height: 130px;
+    padding: 5px;
+} 
+
+.center {
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+
+.bigText {
+    font-size: 30px;
+    background-color: rgba(12,155,57,.8);
+    box-shadow: 10px 10px 10px #7E6143;
+    border-color: black;
+}
+
+#scoreboard {
+    position: relative;
+    margin-left: 500px;
+    width: 500px;   
+    color: #0312b5;
+    background-color: #bf2600;
+    font-size: 24px;
+}
